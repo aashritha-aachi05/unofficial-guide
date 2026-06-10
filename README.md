@@ -1,4 +1,4 @@
-# The Unofficial Guide: Rutgers CS Professor Reviews
+# The Unofficial Guide: CS Professor Reviews
 
 A Retrieval-Augmented Generation (RAG) system that answers questions about
 Rutgers University Computer Science professors, grounded in real student reviews.
