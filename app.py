@@ -43,7 +43,17 @@ with gr.Blocks(title="Rutgers CS Professor Reviews") as demo:
     answer = gr.Textbox(label="Answer", lines=6)
     sources = gr.Textbox(label="Sources (retrieved reviews)", lines=5)
 
-    gr.Examples(examples=EXAMPLE_QUESTIONS, inputs=question)
+    # run_on_click runs the query when an example is clicked (instead of only
+    # filling the textbox), so the Answer/Sources boxes refresh every time.
+    # cache_examples=False keeps each click a live query rather than a snapshot.
+    gr.Examples(
+        examples=EXAMPLE_QUESTIONS,
+        inputs=question,
+        outputs=[answer, sources],
+        fn=answer_question,
+        run_on_click=True,
+        cache_examples=False,
+    )
 
     ask_btn.click(fn=answer_question, inputs=question, outputs=[answer, sources])
     question.submit(fn=answer_question, inputs=question, outputs=[answer, sources])
