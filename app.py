@@ -6,7 +6,12 @@ Run with:  python app.py
 
 import gradio as gr
 
+from embed import ensure_index
 from query import generate
+
+# Build the vector store on startup if it doesn't exist yet. This lets the app
+# boot on a fresh deploy (e.g. Hugging Face Spaces) where chroma_db/ is absent.
+ensure_index()
 
 EXAMPLE_QUESTIONS = [
     "What do students say about Sesh Venugopal's exams?",

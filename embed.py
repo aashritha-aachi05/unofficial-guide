@@ -60,6 +60,18 @@ def build_index():
     return collection
 
 
+def ensure_index():
+    """Build the index if it's empty (e.g. a fresh deploy with no chroma_db).
+
+    Lets the app boot on a hosting platform where the local vector store
+    doesn't exist yet, without forcing a manual `python embed.py` run.
+    """
+    collection = get_collection()
+    if collection.count() == 0:
+        return build_index()
+    return collection
+
+
 def retrieve(query, k=TOP_K):
     """Return the top-k chunks most similar to `query`.
 
