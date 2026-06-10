@@ -2,3 +2,15 @@ Profesor: Hao Wang
 Course: CS462
 Rating: 4/5
 Review: lectures are very clear. only graded by 2-3 assignments and the final group project. lenient grader and lots of opportunities for extra credit.
+
+Rating: 5/5
+Review: Course is structured around 2 homeworks (and an optional third) and a big group project that has a presentation and written element. Hao Wang was excellent at answering questions, and was very interested in the course material. I loved the final project because he basically just let us go wild, and do whatever we wanted.
+
+Rating: 5/5
+Review: I took Prof. Wang's Machine Learning course. He is a very knowledgable professor. His class was well-paced and he tried to cleared all doubts in class. Assignments are tough but very detailed, almost like a tutorial. Extra days and extra credit assignments are provided, to help with grades. Very interesting class with a good, practical curriculum.
+
+Rating: 5/5
+Review: This guy is the best professor I've ever had. His lectures are crystal-clear, and he's obviously passionate about the deep learning. He gives really great responses to questions, and office hours are always welcomed. If you take every lecture, then the homework are pretty easy. Would recommend him to anyone who has interest in AI.
+
+Rating: 5/5
+Review: My favorite professor, I've taken in the cs department so far. Although this course is rather complicated and demands high Maths foundations, professor Wang Hao always could find a concise and clear way to help us understand the formulas and applications. Four homework, a small final presentation, and a lot of extra credits.

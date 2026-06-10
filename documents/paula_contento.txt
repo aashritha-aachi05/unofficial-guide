@@ -1,7 +1,19 @@
-Profesor: Ana Paula Contento
+Profesor: Paula Centento
 Course: CS112
 Rating: 2/5
 Review: Isn't bad professor, but I recommend doing a lot of self-studying.
 The assignments can be heavy, so practice with past exams, watching 
 videos, and doing leetcode problems will help. Stay on top of work and    
 you'll do fine.
+
+Rating: 3/5
+Review: Prof. Centeno isn't a bad professor for CS112, but I recommend doing a lot of self-studying. The assignments can be heavy, so practicing with past exams, watching YouTube videos, and doing some LeetCode problems will help you understand the material better. Stay on top of the work and you'll do fine.
+
+Rating: 3/5
+Review: Unless you are completely new to programming, these classes aren't difficult. While it does seem like exams are more difficult due to their midterm grade replacement policy, that same policy makes it much easier to get more points on exams. Assignments outside of exams are simple, but lengthy; 111 exams are code-heavy; 112 exams are concept-heavy.
+
+Rating: 3/5
+Review: I think I know more about her love for cats than computer science. Lectures move slow, you can just skip and study the practice exams. The study material is actually useful.
+
+Rating: 5/5
+Review: But professor Centeno is a really great professor, she answers all questions, encourages questions, and teaches well. As long as you ask questions and go to lectures you will be fine. Plus they have past exams as a resource to study for future exams in the course which are very helpful.
