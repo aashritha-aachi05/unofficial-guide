@@ -1,0 +1,4 @@
+Profesor: Hao Wang
+Course: CS462
+Rating: 4/5
+Review: lectures are very clear. only graded by 2-3 assignments and the final group project. lenient grader and lots of opportunities for extra credit.

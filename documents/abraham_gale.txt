@@ -1,0 +1,5 @@
+Profesor: Abraham Gale
+Course: CS205
+Rating: 2/5
+Review: Is not really bad, but the lecture is not really helpful. I 
+taught myself most of the class.

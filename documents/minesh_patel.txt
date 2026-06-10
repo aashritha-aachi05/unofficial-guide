@@ -1,0 +1,4 @@
+Profesor: Minesh Patel
+Course: CS211
+Rating: 4/5
+Review: Good guy who cares about his students. There were some VERY hard assignments and tests, but curves and points back were generous and there was extra credit offered.

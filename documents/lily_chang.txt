@@ -1,0 +1,5 @@
+Profesor: Lily Chang
+Course: CS213
+Rating: 3/5
+Review: This class was phenomenal, and I'm told harder (but felt easy) than the Eng version. Her lectures correlated perfectly to the projects and very organized. Partner projects, useful skills. Highly recommend.
+

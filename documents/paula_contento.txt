@@ -1,0 +1,7 @@
+Profesor: Ana Paula Contento
+Course: CS112
+Rating: 2/5
+Review: Isn't bad professor, but I recommend doing a lot of self-studying.
+The assignments can be heavy, so practice with past exams, watching 
+videos, and doing leetcode problems will help. Stay on top of work and    
+you'll do fine.

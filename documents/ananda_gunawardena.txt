@@ -1,0 +1,4 @@
+Profesor: Ananda Gunawardena
+Course: CS439
+Rating: 5/5
+Review: liked how the course allowed you to make up your grade if you messed up on an exam as the hws really helped raise grades and personally I learned more through the hws than exams.

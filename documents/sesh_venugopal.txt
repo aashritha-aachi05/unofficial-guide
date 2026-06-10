@@ -1,0 +1,4 @@
+Profesor: Sesh Venugopal
+Course: CS210
+Rating: 1/5
+Review: The professor uses AI for everything, his projects are very confusing, the exams are inconsistent with what he teaches us, plus there is no curve and the grading is really harsh.

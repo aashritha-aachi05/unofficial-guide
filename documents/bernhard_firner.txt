@@ -1,0 +1,4 @@
+Profesor: Bernhard Firner
+Course: CS462
+Rating: 5/5
+Review: Good professor. Biweekly recitation quizzes. Midterm was a bit rough, averaging a bit under a 60, but the final REALLY made up for it. He sourced a bunch of questions from the midterm, recitation quizzes, and lecture sample questions word for word, so as long as you look them over, you were guaranteed a solid portion of the exam

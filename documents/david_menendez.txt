@@ -1,0 +1,4 @@
+Profesor: David Menendez
+Course: CS214
+Rating: 3/5
+Review: Monotonous lectures, but he's down-to-earth and accessible. Homeworks are very difficult, so be sure to do well on them, or else you won't pass.
