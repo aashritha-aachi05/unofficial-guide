@@ -2,3 +2,15 @@ Profesor: Bernhard Firner
 Course: CS462
 Rating: 5/5
 Review: Good professor. Biweekly recitation quizzes. Midterm was a bit rough, averaging a bit under a 60, but the final REALLY made up for it. He sourced a bunch of questions from the midterm, recitation quizzes, and lecture sample questions word for word, so as long as you look them over, you were guaranteed a solid portion of the exam
+
+Course: CS530
+Rating 2/5
+Review: Dr. Firner cares about his students and the material that he teaches. The problem is that his lecturing approach isn't effective in absorbing the material. The lecture slides are very vague and difficult to study from. He mostly talks through his slides and goes through the concepts really quickly with a lot of technical jargon.
+
+Course: CS211
+Rating: 1/5
+Review: Although this professor will provide you with PowerPoint slides, I believe they are of little use. His practice problems differ significantly from the actual exam questions, and the average exam score is only half the total points, with no grading curve at all.
+
+Course: CS211
+Rating: 2/5
+Review: Don't be fooled by what these other people are saying. He was a nice guy, but not the best professor. They say oh his class is easy, slides are posted, but no. You need to look at the textbooks he provides online but it's dififcult to find some of them off the links he gives. Exams are always different from the practice. No curves at all.

@@ -2,3 +2,15 @@ Profesor: Ananda Gunawardena
 Course: CS439
 Rating: 5/5
 Review: liked how the course allowed you to make up your grade if you messed up on an exam as the hws really helped raise grades and personally I learned more through the hws than exams.
+
+Rating: 1/5
+Review: You can tell he is genuinely a nice person, but unfortunately his lectures aren't the most helpful and the class isn't the most organized.
+
+Rating: 5/5
+Review: really liked everything I learned. This was the first class where I really used Python, and it was really exciting to see how effective the language is in data cleaning and processing. In addition, I knew very little about machine learning, but now I'm confident in my skills, especially after the final project. The class was always exciting.
+
+Rating: 4/5
+Review: although he is disorganized, he is a very nice professor and is also enthusiastic about lectures. class is project heavy with 4 assignments (30%), 5 quizzes (20%), participation (10%), midterm1 (10%), midterm2 (15%), and final project (15%). there is no final exam but the final project is comprehensive.
+
+Rating: 5/5
+Review: He's a great teacher. The class was enjoyable and getting a good grade was very doable.

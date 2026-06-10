@@ -2,3 +2,15 @@ Profesor: David Menendez
 Course: CS214
 Rating: 3/5
 Review: Monotonous lectures, but he's down-to-earth and accessible. Homeworks are very difficult, so be sure to do well on them, or else you won't pass.
+
+Rating: 5/5
+Review: Best. Professor. Ever. So knowledgeable and great at teaching. His lectures are awesome, and he always answers questions thoroughly. Class is somewhat hard, but reasonable if you come to lecture.
+
+Rating: 2/5
+Review: I did not do well on exams and only passed because of projects. So, try your best at every project and also do well on exams.
+
+Rating: 2/5
+Review: I have had Menendez for two classes now, and I can confidently say that you need to stay focused on the assignments. The assignments are very important, and doing badly on them means you will not pass. The tests are not particularly difficult and more closely resemble trivia exams than coding exams, as they are filled with random questions.
+
+Rating: 3/5
+Review: The lectures were dry, but luckily everything gets posted online so you can just skip pretty comfortably. Recitation optional as well. 50% projects 50% midterm/final. Absolutely 0 respect for students' time. Assigned projects without giving enough time on occasion. Class averages were very high with fair exams though, so overall the A is free.
